@@ -1,8 +1,6 @@
 # Privacy Policy for Profile Picture Enhancer
 
-**Important:** This app is **not affiliated with, endorsed by, or associated with Discord, Inc.**  
-
-Profile Picture Enhancer is provided by us at no cost and is intended for use as is. This page is used to inform users regarding our policies with the collection, use, and disclosure of information if anyone decides to use our Service.
+**Profile Picture Enhancer** is provided by us at no cost and is intended for use as is. This page is used to inform users regarding our policies with the collection, use, and disclosure of information if anyone decides to use our Service.
 
 By choosing to use our Service, you agree to the collection and use of information in relation to this policy. The information we collect is used for providing, maintaining, and improving the Service, including preventing abuse and spam. We do not use or share your information with anyone except as described in this Privacy Policy. Unless otherwise defined here, the terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
 
